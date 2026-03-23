@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tJBJEJDU1t9TvsZx58i
     access-key-secret: YpIlcotiHZXNPsFCOR0mydXHvGZGhk
     bucket-name: yixiao-sky-take-out
+  redis:
+    host: localhost
+    port: 6379
+    password: root
+    database: 10
